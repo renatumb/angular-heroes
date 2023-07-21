@@ -22,4 +22,5 @@ nav a:active {
 .background{
   background-color: rgba(243, 194, 88, 0.51);
   border: 5px dotted #ff0000;
+  padding: 10px;
 }

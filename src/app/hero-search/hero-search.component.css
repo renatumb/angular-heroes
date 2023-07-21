@@ -51,4 +51,5 @@ ul.search-result {
 .background {
   background-color: #ad58f3;
   border: 3px dotted #6ba05f;
+  padding: 10px;
 }

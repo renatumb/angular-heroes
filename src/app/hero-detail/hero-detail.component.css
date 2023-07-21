@@ -26,4 +26,5 @@ button:disabled {
 .background{
   background-color: #58f3b2;
   border: 3px dotted #8e5fa0;
+  padding: 10px;
 }

@@ -20,6 +20,7 @@ h2 {
 .background{
   background-color: #e7f358;
   border: 3px dotted cadetblue;
+  padding: 10px;
 }
 a {
   background-color: #3f525c;

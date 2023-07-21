@@ -21,4 +21,5 @@ h2 {
 .background{
   background-color: rgba(243, 88, 88, 0.51);
   border: 3px dotted #5f9ea0;
+  padding: 10px;
 }
