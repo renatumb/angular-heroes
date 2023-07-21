@@ -1,6 +1,8 @@
-<h2>Top Heroes</h2>
-<div class="heroes-menu">
-  <a *ngFor="let el of heroes" routerLink="/detail/{{el.id}}">
-    {{el.name}}
-  </a>
+<div class="background">
+  <h2>Top Heroes</h2>
+  <div class="heroes-menu">
+    <a *ngFor="let el of heroes" routerLink="/detail/{{el.id}}">
+      {{el.name}}
+    </a>
+  </div>
 </div>

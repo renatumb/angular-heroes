@@ -53,3 +53,8 @@
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
 }
+
+.background{
+  background-color: rgba(155, 135, 245, 0.6);
+  border: 3px dotted #bd2105;
+}
